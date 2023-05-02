@@ -2,7 +2,7 @@ package com.sparta.lmd;
 
 public class Calculator {
     public static void main(String[] args) {
-        System.out.println(chooseOperation(1, 4, 6));
+        System.out.println(chooseOperation(4, 6, 4));
     }
 
     public static String chooseOperation(int operation,int x, int y){
